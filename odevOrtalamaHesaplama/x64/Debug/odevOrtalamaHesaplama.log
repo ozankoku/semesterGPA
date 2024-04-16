@@ -1,0 +1,7 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: Ara dizin (x64\Debug\) başka bir projeden (odevOrtalamaHesaplama.vcxproj) paylaşılan dosyalar içeriyor. Bu, hatalı temizleme ve yeniden oluşturma davranışına neden olabilir.
+  calculatorGPA-v2.c
+  calculatorGPA-v3.c
+C:\Users\Ozan\Desktop\VS\source\repos\odevOrtalamaHesaplama\odevOrtalamaHesaplama\calculatorGPA-v3.c(81,51): warning C4244: '=': 'double' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\Ozan\Desktop\VS\source\repos\odevOrtalamaHesaplama\odevOrtalamaHesaplama\calculatorGPA-v3.c(176,93): warning C4244: '=': 'double' - 'float' dönüşümü; veri kaybı olabilir
+  Kod Üretiliyor...
+  odevOrtalamaHesaplama.vcxproj -> C:\Users\Ozan\Desktop\VS\source\repos\odevOrtalamaHesaplama\x64\Debug\semesterGPA.exe
