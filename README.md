@@ -5,7 +5,7 @@ This repository contains code for a basic semester GPA calculator written in C. 
 Refactored code for readability and efficiency.
 Added error handling for invalid input.
 Implemented a more robust calculation algorithm.
-Utilized best practices learned from online resources and tutorials.
+Utilized best practices learned from class resources and sometimes online resources.
 
 # Usage
 To use the semester GPA calculator, simply run the semesterGPA v4. Follow the prompts to input your grades and percentages for each grade, and the program will calculate your GPA for the semester.
