@@ -1,5 +1,3 @@
-# semesterGPA
-
 # Semester GPA Calculator
 This repository contains code for a basic semester GPA calculator written in C. The code was initially created as a homework assignment for computer science class. However, I have since improved upon it based on what I've learned in class and additional resources.
 
